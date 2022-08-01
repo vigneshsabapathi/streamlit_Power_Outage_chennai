@@ -12,9 +12,8 @@ statsmodels
 pickle5
 prophet
 sklearn
-xgboost==1.6.1
 statsmodels
 warnings
 scikit-learn
 pystone
-streamlit-option-menu
+
