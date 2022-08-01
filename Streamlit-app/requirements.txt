@@ -9,7 +9,7 @@ plotly
 pybase64
 Image
 statsmodels
-pickle5
+pickle-mixin
 statsmodels
 warnings
 scikit-learn
