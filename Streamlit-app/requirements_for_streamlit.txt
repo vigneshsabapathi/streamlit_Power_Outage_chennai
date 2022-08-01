@@ -7,7 +7,7 @@ re
 plotly
 base64
 Image
-option_menu
+streamlit-option-menu
 webbrowser
 statsmodels.tsa.ar_model
 AutoReg
