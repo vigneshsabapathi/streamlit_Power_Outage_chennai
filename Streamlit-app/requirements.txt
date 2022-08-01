@@ -8,7 +8,7 @@ datetime
 plotly
 pybase64
 Image
-statsmodels.tsa.ar_model
+statsmodels
 AutoReg
 pickle
 prophet
