@@ -9,7 +9,6 @@ plotly
 pybase64
 Image
 statsmodels
-AutoReg
 pickle
 prophet
 sklearn
