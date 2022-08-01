@@ -18,3 +18,4 @@ xgboost
 statsmodels
 warnings
 scikit-learn
+pystone
