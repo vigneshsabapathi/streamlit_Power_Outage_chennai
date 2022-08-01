@@ -9,7 +9,7 @@ plotly
 pybase64
 Image
 statsmodels
-pickle
+pickle5
 prophet
 sklearn
 xgboost
