@@ -9,7 +9,6 @@ plotly
 pybase64
 Image
 streamlit-option-menu
-pycopy-webbrowser==0.0.0
 statsmodels.tsa.ar_model
 AutoReg
 pickle
