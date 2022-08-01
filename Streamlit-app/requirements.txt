@@ -3,7 +3,6 @@ numpy
 seaborn
 matplotlib
 datetime
-re
 plotly
 base64
 Image
