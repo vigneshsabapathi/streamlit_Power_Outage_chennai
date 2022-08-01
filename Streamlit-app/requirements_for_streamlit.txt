@@ -17,3 +17,4 @@ sklearn
 xgboost
 statsmodels
 warnings
+scikit-learn
