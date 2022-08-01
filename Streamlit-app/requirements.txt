@@ -10,7 +10,6 @@ pybase64
 Image
 statsmodels
 pickle5
-prophet
 statsmodels
 warnings
 scikit-learn
